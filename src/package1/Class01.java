@@ -15,7 +15,7 @@ public class Class01 {
 		
 		// int in = 1 + 2 + 3 + 5;
 
-		int i2 = 0;
+		int i2 = 3;
 		for(int i=0; i>i2; i++ ) {
 			System.out.println("heyy");
 		}
