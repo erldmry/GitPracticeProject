@@ -14,11 +14,17 @@ public class Class01 {
 		// I add some info as comment that can i see on the git
 		
 		// int in = 1 + 2 + 3 + 5;
+		
+		// I have learnt new things about cmd comment 
 
 		int i2 = 3;
-		for(int i=0; i>i2; i++ ) {
-			System.out.println("heyy");
+		for(int i=0; i<i2; i++ ) {
+		System.out.print("heyy ");
 		}
+		
+		
+		
+		
 	}
 
 }
