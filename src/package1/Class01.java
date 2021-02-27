@@ -14,6 +14,8 @@ public class Class01 {
 		// I add some info as comment that can i see on the git
 		
 		// int in = 1 + 2 + 3 + 5;
+		
+		// I have learnt new things about cmd comment 
 
 	}
 
