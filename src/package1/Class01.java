@@ -22,6 +22,9 @@ public class Class01 {
 		System.out.print("heyy ");
 		}
 		
+		int hhh = 1;
+		System.out.println(hhh);
+		
 		
 		
 		
